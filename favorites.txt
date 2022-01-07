@@ -1,4 +1,3 @@
-meat
-kiwi
-rice
-cheese
+Potato	
+Onion
+Cheese
